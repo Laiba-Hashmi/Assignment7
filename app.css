@@ -1,0 +1,28 @@
+h1{
+    background-color: #a84b15;
+    text-align: center;
+    line-height: 250px;
+    font-size: 45px;
+}
+*{
+    background-color: #d69e4f;
+    margin: 0;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 23px;
+}
+h2+p{
+    color: #751f0a;
+}
+
+#a{
+    color: #17720f;
+    text-decoration: none;
+}
+.a{
+    text-align: center;
+    word-spacing: 20px;
+}
